@@ -3,7 +3,7 @@
 
             I'm SOUVIK DEY a 3rd-year I.T. Engineering Student Passionate Web Developer .Proficient in C Programming, Python, Java & DSA , Algorithms.
 
-## PORTFOLIO 🚀 Website's [Live Link](https://souvik2812.github.io/portfolio/index.html)🔗
+## PORTFOLIO 🚀 Website's [Live Link](https://souvik28.netlify.app/#home)🔗
 
 ![LIVE-LINK](https://img.shields.io/badge/LIVELINK-blue)
 
@@ -21,7 +21,8 @@
 
 ### Hi there 👋
 
-<!--
+<!--  https://souvik28.netlify.app/#home 
+https://souvik2812.github.io/portfolio/index.html
 **souvik-dey-28/souvik-dey-28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
