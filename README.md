@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm SOUVIK DEY</h1>
-<h3 align="center">A passionate frontend developer from India.</h3>
+<h3 align="center">A passionate frontend developer from India🇮🇳.</h3>
 
 <img align="right" alt="coding" width="498" src="https://lh3.googleusercontent.com/FCTJV2u4ETqtkvFn0I1fY184UbdpWhqpAyyV6w7732ookhFnbAF_gBaWMNfAw28z_GhVeZmQIY7jbUuDlFEjWWv6ldLe7FvrJg4=w932">
 
