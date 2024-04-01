@@ -1,7 +1,7 @@
 ﻿# Web Dev & Software Development Engineer
 # Souvik DEy Portfolio Website
 
- I'm SOUVIK DEY a 3rd-year I.T. Engineering Student Passionate Web Developer .Proficient in C Programming, Python, Java & DSA , Algorithms.
+            I'm SOUVIK DEY a 3rd-year I.T. Engineering Student Passionate Web Developer .Proficient in C Programming, Python, Java & DSA , Algorithms.
 
 ## PORTFOLIO 🚀 Website's [Live Link](https://souvik2812.github.io/portfolio/index.html)🔗
 
